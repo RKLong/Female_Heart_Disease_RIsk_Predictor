@@ -1,0 +1,2 @@
+# Female_Heart_Disease_RIsk_Predictor
+This project deals with Heart Disease Risk data analysis based on the Framingham study that comprises of 4238 records containing heart related health parameters and demographics of a set of patients.  With this current dataset which is related to Heart Disease, our objective is to identify whether a patient is at risk for heart disease or not, based on features such as preexisting conditions, medication, age group and other parameters.
