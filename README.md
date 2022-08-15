@@ -6,5 +6,6 @@ This was a capstone project and there were four members in the group. Together w
 
 The complete project can be accessed by clicking the link.
 [click_me!](https://github.com/RN2D-Project/BootCamp_Project)
+
 The dashboard which we created using Tableau can be viewed by clicking the link.
 [click_me!](https://public.tableau.com/app/profile/fhd.ucb2021/viz/FemaleHeartDiseasePredictor/Story_Board)
